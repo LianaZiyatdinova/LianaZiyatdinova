@@ -80,7 +80,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 ---
 <!-- ### 💻 Completed courses:
 
-| Coursr                                                           | Date              |
+| Courses                                                           | Date              |
 | ---------------------------------------------------------------- | :---------------: |
 | artsiomrusau.com/ Курс "Функциональное тестирование ПО"          | 06/2023 - 09/2023 |
 
