@@ -84,6 +84,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 | ----------------------------------------------------------------| :---------------: |
 | artsiomrusau.com/ Курс "Функциональное тестирование ПО"         | 06/2023 - 09/2023 |
 
---- -->
+--- 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LianaZiyatdinova)
