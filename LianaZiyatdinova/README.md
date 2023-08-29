@@ -78,7 +78,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 </div>
 
 ---
-<!-- ### 💻 Пройденные курсы:
+ ### 💻 Completed courses:
 
 | Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
