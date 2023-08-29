@@ -78,12 +78,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 </div>
 
 ---
-### 💻 Completed courses:
+<!-- ### 💻 Completed courses:
 
-|                      Courses                            |       Date        |
-| —-------------------------------------------------------|:---------------:  |
-| artsiomrusau.com/ Курс "Функциональное тестирование ПО" | 06/2023 - 09/2023 |
+| Coursr                                                           | Date              |
+| ----------------------------------------------------------------| :---------------: |
+| artsiomrusau.com/ Курс "Функциональное тестирование ПО"                           | 06/2023 - 09/2023 |
 
--— —>
+--- -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LianaZiyatdinova)
