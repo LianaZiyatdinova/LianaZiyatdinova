@@ -1,6 +1,6 @@
 # Hello, my name is Liana!
 
--—
+---
 
 ### 👨‍💻 About me:
 
@@ -8,7 +8,7 @@ I am an aspiring QA engineer with a great interest in software testing. I am alw
 
 - 📫 How to contact me:[![Mail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:z.liana1999@mail.ru)
 
--—
+---
 
 ### 🤝 Social network:
 
@@ -18,7 +18,7 @@ I am an aspiring QA engineer with a great interest in software testing. I am alw
 </a>
 </div>
 
--—
+---
 
 ### 📁 Test documentation:
 
@@ -31,7 +31,7 @@ I am an aspiring QA engineer with a great interest in software testing. I am alw
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
--—
+---
 
 ### 🛠 Testing web applications:
 
@@ -41,7 +41,7 @@ I am an aspiring QA engineer with a great interest in software testing. I am alw
 <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
--—
+---
 
 ### 📱 Mobile application testing:
 
@@ -54,7 +54,7 @@ I am an aspiring QA engineer with a great interest in software testing. I am alw
 </div>
 
 
--—
+---
 
 ### 💾 Working with data:
 
@@ -63,7 +63,7 @@ I am an aspiring QA engineer with a great interest in software testing. I am alw
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
--—
+---
 
 ### ✏ Working with code:
 
@@ -77,11 +77,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 </div>
 
--—
+---
 ### 💻 Completed courses:
 
-| Courses | Date |
-| —--------------------------------------------------------------| :---------------: |
+|                      Courses                            |       Date        |
+| —------------------------------------------------------- :---------------: |
 | artsiomrusau.com/ Курс "Функциональное тестирование ПО" | 06/2023 - 09/2023 |
 
 -— —>
