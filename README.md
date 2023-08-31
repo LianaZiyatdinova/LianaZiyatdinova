@@ -19,7 +19,7 @@ I am an aspiring QA engineer with a great interest in software testing. I am alw
 </div>
 
 ---
-### ~A Test Artifacts
+### ⚡ Test Artifacts
 
 - [Checklists](https://github.com/LianaZiyatdinova/Checklists)
 - [Test-Cases](https://github.com/LianaZiyatdinova/Test-cases)
