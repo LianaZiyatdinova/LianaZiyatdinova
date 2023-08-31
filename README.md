@@ -19,7 +19,17 @@ I am an aspiring QA engineer with a great interest in software testing. I am alw
 </div>
 
 ---
+í³ í°œTest Artifacts
 
+- [Checklists](https://github.com/LianaZiyatdinova/Checklists)
+- [Test-Cases](https://github.com/LianaZiyatdinova/Test-cases)
+- [Bug-Reports](https://github.com/LianaZiyatdinova/Bag-Reports)
+- [SQL](https://github.com/LianaZiyatdinova/SQL)
+- [Postman Collections](https://github.com/LianaZiyatdinova/Postman-Collections)
+- [Test plans/Reports on the conducted testing ](https://github.com/LianaZiyatdinova/-Test-plan_Test-results-report)
+- [Bash commands](https://github.com/LianaZiyatdinova/Bash)
+- [Git](https://github.com/LianaZiyatdinova/LianaZiyatdinova)
+---
 ### ğŸ“ Test documentation:
 
 <div>
