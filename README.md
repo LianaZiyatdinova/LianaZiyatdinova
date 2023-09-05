@@ -9,6 +9,8 @@ I am an aspiring QA engineer with a great interest in software testing. I am alw
 - 📫 How to contact me:[![Mail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:z.liana1999@mail.ru)
 
 ---
+You can see my [CV here](https://drive.google.com/file/d/1TwLczMrHJAfOPZEx7DMR8ab3awqS2K20/view?usp=sharing)
+---
 
 ### 🤝 Social network:
 
